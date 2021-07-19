@@ -12,5 +12,5 @@ the joint objective of Dr. Jankowski’s RET and REU students in 2021.
 <br><br>
 # Files included: 
 * Jupyter Notebooks for creating RDFs and diffraction patterns using the Gaff force-field
-* Scientific poster presented at the [Idaho Conference on Undergraduate Research](https://www.boisestate.edu/icur/) highlighting the work completed between a team of undergraduates and me. 
+* Scientific poster presented at the [Idaho Conference on Undergraduate Research](https://www.boisestate.edu/icur/) highlighting the work completed between a team of undergraduates and myself. 
 * Middle School STEAM Lesson Plan for Solar Tiny House using Micro:bits and MakeCode programming
