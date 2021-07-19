@@ -1,5 +1,5 @@
 # Efficient Molecular Modeling of Organic Photovoltaics
-![OVITO Simulation of IEICO](IEICO.gif)
+![OVITO Simulation of IEICO](IEICO.gif) <br></br>
 ##Jankowski's Lab in June-July 2021
 ### Funded for by the National Science Foundation's Research Experience for Teachers (NSF-RET) at Boise State University 
 <br></br>
