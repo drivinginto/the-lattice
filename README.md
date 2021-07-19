@@ -1,6 +1,6 @@
 # Efficient Molecular Modeling of Organic Photovoltaics
-[Computer Model of X-Ray Diffraction for P3HT](RDF_P3HT.png)
-[OVITO Simulation of IEICO](IEICO.gif)
+![Computer Model of X-Ray Diffraction for P3HT](RDF_P3HT.png)
+![OVITO Simulation of IEICO](IEICO.gif)
 ##Jankowski's Lab in June-July 2021
 ### Funded for by the National Science Foundation's Research Experience for Teachers (NSF-RET) at Boise State University 
 <br></br>
