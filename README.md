@@ -18,4 +18,7 @@ the joint objective of Dr. Jankowski’s RET and REU students in 2021.
 * Middle School STEAM Lesson Plan for Solar Tiny House using Micro:bits and MakeCode programming
 
 ![Computer Model of X-Ray Diffraction for P3HT](RDF_P3HT.png)
-
+Computer Model of X-Ray Diffraction for P3HT
+<br></br>
+![RDFs](OPV_RDF_density1.0_Rice.png)
+Radial Distribution Functions (RDFs) for carbon bonding in various OPV candidates
