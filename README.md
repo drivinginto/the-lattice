@@ -1,5 +1,7 @@
 # Efficient Molecular Modeling of Organic Photovoltaics
-## Research Completed at Dr. Jankowski's Lab in June-July 2021
+[Computer Model of X-Ray Diffraction for P3HT](RDF_P3HT.png)
+[OVITO Simulation of IEICO](IEICO.gif)
+##Jankowski's Lab in June-July 2021
 ### Funded for by the National Science Foundation's Research Experience for Teachers (NSF-RET) at Boise State University 
 <br></br>
 Computational modeling is used in Dr. Jankowski’s lab to accelerate the identification
